@@ -101,7 +101,7 @@ celerybeat-schedule.*
 .venv 
 env/ 
 venv/ 
-api-like-a-boss/
+todowoo-venv/
 ENV/ 
 env.bak/ 
 venv.bak/ 
